@@ -11,7 +11,7 @@
 <p>
  x <sup>2</sup> + y <sup>2</sup> = z <sup>2</sup>
 </p>
-  <p style="color: red">This page is acollection of my awesome notes about HTML!
+  <p style="color: red; style="text-align: center;">This page is acollection of my awesome notes about HTML!
   </p>
 <p style="color: green">
 The web (or World Wide Web) is a collection of documents and oother files. Most of documents are made using Hypertext Markup Language (HTML) 
