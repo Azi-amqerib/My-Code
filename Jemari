@@ -34,8 +34,8 @@ The web (or World Wide Web) is a collection of documents and oother files. Most 
  <mark>Crazy!</mark>
  </p>
  <div>
- <p>Call me Ismael.</p>
- <p> Just don't call me  later for dinne.r</p>
+ <p style="text-align: center">Call me Ismael.</p>
+ <p style="text-align: center"> Just don't call me  later for dinne.r</p>
  </div>
  <p>This is an example of closed implied tag
  <ul>
