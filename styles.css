@@ -6,6 +6,7 @@ padding-right: .2em;
 padding-left: .7em;
 paddig-bottom: .6em;
 background-color: rgb(153, 204, 255);
+display: inline-block;
 }
 .infobox {
 width: 283px;
