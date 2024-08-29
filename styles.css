@@ -1,4 +1,4 @@
-.tradingcard {
+.tradingcard1 {
 width: 310px;
 border: 1px solid #DCDCDC;
 box-shadow: 6px 6px 1px 0px #EBEBEB;
@@ -7,6 +7,21 @@ padding-left: .7em;
 paddig-bottom: .6em;
 background-color: rgb(153, 204, 255);
 display: inline-block;
+}
+.tradingcard2 {
+width: 310px;
+border: 1px solid #DCDCDC;
+box-shadow: 6px 6px 1px 0px #EBEBEB;
+padding-right: .2em;
+padding-left: .7em;
+paddig-bottom: .6em;
+background-color: rgb(255, 153, 153);
+display: inline-block;
+.infobox {
+width: 283px;
+border: 1px solid #DCDCDC;
+padding-right: .5em;
+padding-left: .5em;
 }
 .infobox {
 width: 283px;
